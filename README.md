@@ -1,4 +1,4 @@
-# Fluvial Metapop Persitance
+# Fluvial Metapop Persistance
 
 This repository contains the data and code for the paper "A note on the role of seasonal expansions and contractions of the flowing fluvial network on metapopulation persistence" by J. Giezendanner, P. Benettin, Nicola Durighetto, G. Botter and A. Rinaldo.
 
