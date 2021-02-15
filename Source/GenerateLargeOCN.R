@@ -1,4 +1,4 @@
-setwd("~/EPFL/metaLandscape/src/library/OCN")
+setwd(dirname(getActiveDocumentContext()$path))
 library(spam)
 library(OCNet)
 
