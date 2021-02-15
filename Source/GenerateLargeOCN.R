@@ -2,7 +2,7 @@ setwd(dirname(getActiveDocumentContext()$path))
 library(spam)
 library(OCNet)
 
-for(i in 1:40) {
+for(i in 1:39) {
   k = i - 1
   targetPath <- paste("../Data/OCN_data_", k, sep="")
 
